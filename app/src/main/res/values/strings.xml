@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CompassDemo</string>
+    <string name="cardinal_north">N</string>
+    <string name="cardinal_west">W</string>
+    <string name="cardinal_south">S</string>
+    <string name="cardinal_east">E</string>
+
+
+</resources>
